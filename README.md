@@ -1,5 +1,9 @@
 # Web3-hacking-resources
 
+Solidity IDE Remix: 
+
+https://remix.ethereum.org/
+
 Hacking the Blockchain an Ultimate Guide: 
 
 https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
