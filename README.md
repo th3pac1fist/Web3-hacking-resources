@@ -31,3 +31,13 @@ Damn Vulnerable DeFi >
 https://www.damnvulnerabledefi.xyz/
 
 Web3 top security researcher > https://samczsun.com
+
+Create a dao: 
+
+https://tokentool.bitbond.com/createtoken/polygon
+
+https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a
+
+https://squads.so/index.html
+
+https://moralis.io/how-to-create-a-dao-in-10-minutes/
