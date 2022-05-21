@@ -30,3 +30,4 @@ Damn Vulnerable DeFi >
 
 https://www.damnvulnerabledefi.xyz/
 
+Web3 top security researcher > https://samczsun.com
