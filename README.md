@@ -45,3 +45,8 @@ https://moralis.io/how-to-create-a-dao-in-10-minutes/
 Constantinople enables new Reentrancy Attack > https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9
 
 Github Constantinople Reentrancy Attack > https://github.com/ChainSecurity/constantinople-reentrancy
+
+Use the Checks-Effects-Interactions Pattern > https://docs.soliditylang.org/en/v0.5.2/security-considerations.html#use-the-checks-effects-interactions-pattern
+
+Ethereum blockchain data soruce > https://www.eveem.org/
+
