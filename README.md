@@ -1,5 +1,7 @@
 # Web3-hacking-resources
 
+Smart contracts full blockchain solidity course py > https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
 Solidity IDE Remix: 
 
 https://remix.ethereum.org/
