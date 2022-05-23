@@ -41,3 +41,7 @@ https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753
 https://squads.so/index.html
 
 https://moralis.io/how-to-create-a-dao-in-10-minutes/
+
+Constantinople enables new Reentrancy Attack > https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9
+
+Github Constantinople Reentrancy Attack > https://github.com/ChainSecurity/constantinople-reentrancy
