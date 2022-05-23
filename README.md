@@ -2,6 +2,9 @@
 
 Smart contracts full blockchain solidity course py > https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 
+Video > https://www.youtube.com/watch?v=M576WGiDBdQ&t=387s
+* 03/22/22 left off at 25 min into course
+
 Solidity IDE Remix: 
 
 https://remix.ethereum.org/
