@@ -60,3 +60,5 @@ Ethereum blockchain data soruce > https://www.eveem.org/
 Ethereum book chapter 2 notes: 
 
 Create a Dao: https://moralis.io/how-to-create-a-dao-in-10-minutes/
+
+How to Solana — Chapter 5: DAOs & Governance: https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a
