@@ -59,3 +59,4 @@ Ethereum blockchain data soruce > https://www.eveem.org/
 
 Ethereum book chapter 2 notes: 
 
+Create a Dao: https://moralis.io/how-to-create-a-dao-in-10-minutes/
