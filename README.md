@@ -47,7 +47,7 @@ https://squads.so/index.html
 
 https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
-- [X] Ethereum book chapter 1 notes:
+[X] Ethereum book chapter 1 notes:
 
 - Constantinople enables new Reentrancy Attack > https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9
 
@@ -57,9 +57,9 @@ https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
 - Ethereum blockchain data soruce > https://www.eveem.org/
 
-- [] Ethereum book chapter 3 notes: 
+[] Ethereum book chapter 3 notes: 
 
-- [X] Ethereum book chapter 3 notes: 
+[X] Ethereum book chapter 3 notes: 
 
 -  Currently, there are six main implementations of the Ethereum protocol, written in six different languages:
 
@@ -77,16 +77,18 @@ https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
 Side note: still need to set up my own eth node from this chapter. 
 
-- [] Ethereum book chapter 4 notes: 
+[] Ethereum book chapter 4 notes: 
 
-- [] Ethereum book chapter 5 notes: 
+[] Ethereum book chapter 5 notes: 
 
-- [] Ethereum book chapter 6 notes: 
+[] Ethereum book chapter 6 notes: 
 
-- [] Ethereum book chapter 13 notes: 
+[] Ethereum book chapter 13 notes: 
 
-- [] Ethereum book chapter 14 notes: 
+[] Ethereum book chapter 14 notes: 
+
+DaOs: 
+
 Create a Dao: https://moralis.io/how-to-create-a-dao-in-10-minutes/
-
 
 How to Solana — Chapter 5: DAOs & Governance: https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a
