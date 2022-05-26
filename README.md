@@ -47,18 +47,46 @@ https://squads.so/index.html
 
 https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
-Ethereum book chapter 1 notes:
+- [X] Ethereum book chapter 1 notes:
 
-Constantinople enables new Reentrancy Attack > https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9
+- Constantinople enables new Reentrancy Attack > https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9
 
-Github Constantinople Reentrancy Attack > https://github.com/ChainSecurity/constantinople-reentrancy
+- Github Constantinople Reentrancy Attack > https://github.com/ChainSecurity/constantinople-reentrancy
 
-Use the Checks-Effects-Interactions Pattern > https://docs.soliditylang.org/en/v0.5.2/security-considerations.html#use-the-checks-effects-interactions-pattern
+- Use the Checks-Effects-Interactions Pattern > https://docs.soliditylang.org/en/v0.5.2/security-considerations.html#use-the-checks-effects-interactions-pattern
 
-Ethereum blockchain data soruce > https://www.eveem.org/
+- Ethereum blockchain data soruce > https://www.eveem.org/
 
-Ethereum book chapter 2 notes: 
+- [] Ethereum book chapter 3 notes: 
 
+- [X] Ethereum book chapter 3 notes: 
+
+-  Currently, there are six main implementations of the Ethereum protocol, written in six different languages:
+
+1. Parity, written in Rust (most popular)
+
+2. Geth, written in Go (most popular)
+
+3. cpp-ethereum, written in C++
+
+4. pyethereum, written in Python
+
+5. Mantis, written in Scala
+
+6. Harmony, written in Java
+
+Side note: still need to set up my own eth node from this chapter. 
+
+- [] Ethereum book chapter 4 notes: 
+
+- [] Ethereum book chapter 5 notes: 
+
+- [] Ethereum book chapter 6 notes: 
+
+- [] Ethereum book chapter 13 notes: 
+
+- [] Ethereum book chapter 14 notes: 
 Create a Dao: https://moralis.io/how-to-create-a-dao-in-10-minutes/
+
 
 How to Solana — Chapter 5: DAOs & Governance: https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a
