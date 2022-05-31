@@ -85,6 +85,14 @@ Read some but didnt feel like I needed to understand a deep dive of cryptography
 
 [] Ethereum book chapter 6 notes: 
 
+[] Ethereum book chapter 6 notes: 
+
+[] Ethereum book chapter 7 notes: 
+
+[] Ethereum book chapter 9 notes: 
+
+[] Ethereum book chapter 12 notes: 
+
 [] Ethereum book chapter 13 notes: 
 
 [] Ethereum book chapter 14 notes: 
