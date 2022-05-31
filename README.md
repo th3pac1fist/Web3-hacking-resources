@@ -57,7 +57,8 @@ https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
 - Ethereum blockchain data soruce > https://www.eveem.org/
 
-[] Ethereum book chapter 3 notes: 
+[X] Ethereum book chapter 2 notes: 
+- Read some but didnt feel like it was as valuable to me since I already have a background in it. 
 
 [X] Ethereum book chapter 3 notes: 
 
@@ -77,7 +78,8 @@ https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
 Side note: still need to set up my own eth node from this chapter. 
 
-[] Ethereum book chapter 4 notes: 
+[X] Ethereum book chapter 4 notes: 
+Read some but didnt feel like I needed to understand a deep dive of cryptography. 
 
 [] Ethereum book chapter 5 notes: 
 
