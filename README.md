@@ -92,3 +92,12 @@ DaOs:
 Create a Dao: https://moralis.io/how-to-create-a-dao-in-10-minutes/
 
 How to Solana — Chapter 5: DAOs & Governance: https://sinoglobalcap.medium.com/how-to-solana-chapter-5-daos-governance-e41a753ce72a
+
+Free courses and certs: 
+
+Blockchain basics (blockchain alliance) > https://blockchaintrainingalliance.com/products/blockchain-basics
+
+Paid coruses and certs: 
+
+blockchain security (blockchain alliance) >  https://blockchaintrainingalliance.com/products/blockchain-security-training-on-demand
+
