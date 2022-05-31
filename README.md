@@ -111,3 +111,4 @@ Paid coruses and certs:
 
 blockchain security (blockchain alliance) >  https://blockchaintrainingalliance.com/products/blockchain-security-training-on-demand
 
+blockchain council certs > https://www.blockchain-council.org/blockchain-certification/
