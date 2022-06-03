@@ -112,3 +112,11 @@ Paid coruses and certs:
 blockchain security (blockchain alliance) >  https://blockchaintrainingalliance.com/products/blockchain-security-training-on-demand
 
 blockchain council certs > https://www.blockchain-council.org/blockchain-certification/
+
+Smart Contract Hacking from Moralis Web3 - Reentrancy vuln (2022) > https://www.youtube.com/watch?v=hIOoM9KO3fw
+
+BHIS | Getting Started in Blockchain Security and Smart Contract Auditing | Beau Bullock > https://www.youtube.com/watch?v=WchXkMlKj9w
+
+How to find Solidity vulnerabilities > https://www.youtube.com/watch?v=R1eZCmR91vQ
+
+Hacking Ethereum Smart Contracts - Damn Vulnerable Defi (Unstoppable) > https://www.youtube.com/watch?v=gtF6HAKmh8I
