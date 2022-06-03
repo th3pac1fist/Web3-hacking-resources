@@ -120,3 +120,5 @@ BHIS | Getting Started in Blockchain Security and Smart Contract Auditing | Beau
 How to find Solidity vulnerabilities > https://www.youtube.com/watch?v=R1eZCmR91vQ
 
 Hacking Ethereum Smart Contracts - Damn Vulnerable Defi (Unstoppable) > https://www.youtube.com/watch?v=gtF6HAKmh8I
+
+SEC554: Blockchain And Smart Contract Security - How To Lose $280 Million With A Single Line Of Code 2020 > https://www.youtube.com/watch?v=bTPouSkrhIM
