@@ -88,7 +88,7 @@ Read some but didnt feel like I needed to understand a deep dive of cryptography
 [] Ethereum book chapter 6 notes: 
 
 [] Ethereum book chapter 7 notes: 
-Left off here > [Just search for "Let’s look at each of these components:" and continue reading on. ](https://github.com/th3pac1fist/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#adding-a-constructor-and-selfdestruct-to-our-faucet-example)
+Left off here > [Link](https://github.com/th3pac1fist/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#adding-a-constructor-and-selfdestruct-to-our-faucet-example)
 
 Created my first smart contract called Faucet.sol from this example > https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet.sol
 
