@@ -87,8 +87,8 @@ Read some but didnt feel like I needed to understand a deep dive of cryptography
 
 [] Ethereum book chapter 6 notes: 
 
-[] Ethereum book chapter 7 notes: 
-Left off here > [Link](https://github.com/th3pac1fist/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc#catching-events)
+[x] Ethereum book chapter 7 notes: 
+Read throught this chapter, but would like to go back and focusing on developing the contract examples. Did a little bit of this, but id like to dive in deeper when I get more time. 
 
 Created my first smart contract called Faucet.sol from this example > https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet.sol
 
