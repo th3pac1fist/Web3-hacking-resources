@@ -92,7 +92,8 @@ Read throught this chapter, but would like to go back and focusing on developing
 
 Created my first smart contract called Faucet.sol from this example > https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet.sol
 
-[] Ethereum book chapter 9 notes: left off here: https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#real-world-examples-powhc-and-batch-transfer-overflow-cve-201810299
+[] Ethereum book chapter 9 notes: left off here: https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#delegatecall
+Note: when done with this chapter, go back through each vuln and read the links to references like blogposts. 
 
 [] Ethereum book chapter 12 notes: 
 
