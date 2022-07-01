@@ -125,4 +125,6 @@ How to find Solidity vulnerabilities > https://www.youtube.com/watch?v=R1eZCmR91
 
 Hacking Ethereum Smart Contracts - Damn Vulnerable Defi (Unstoppable) > https://www.youtube.com/watch?v=gtF6HAKmh8I
 
+Learn about Web3 with web3 accademy (podcast is solid to): https://w3academy.io/thank-you-page/
+
 SEC554: Blockchain And Smart Contract Security - How To Lose $280 Million With A Single Line Of Code 2020 > https://www.youtube.com/watch?v=bTPouSkrhIM
