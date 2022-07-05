@@ -85,14 +85,13 @@ Read some but didnt feel like I needed to understand a deep dive of cryptography
 
 [] Ethereum book chapter 6 notes: 
 
-[] Ethereum book chapter 6 notes: 
-
 [x] Ethereum book chapter 7 notes: 
 Read throught this chapter, but would like to go back and focusing on developing the contract examples. Did a little bit of this, but id like to dive in deeper when I get more time. 
 
 Created my first smart contract called Faucet.sol from this example > https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet.sol
 
-[] Ethereum book chapter 9 notes: left off here: https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#default-visibilities
+[] Ethereum book chapter 9 notes: left off here: [https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#default-visibilities](https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#external-contract-referencing)
+
 Note: when done with this chapter, go back through each vuln and read the links to references like blogposts. 
 
 [] Ethereum book chapter 12 notes: 
