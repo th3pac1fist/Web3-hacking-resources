@@ -90,7 +90,7 @@ Read throught this chapter, but would like to go back and focusing on developing
 
 Created my first smart contract called Faucet.sol from this example > https://github.com/ethereumbook/ethereumbook/blob/develop/code/Solidity/Faucet.sol
 
-[] Ethereum book chapter 9 notes: left off here: [https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#default-visibilities](https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#external-contract-referencing)
+[] Ethereum book chapter 9 notes: left off here: [[https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#default-visibilities](https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#external-contract-referencing)](https://github.com/th3pac1fist/ethereumbook/blob/develop/09smart-contracts-security.asciidoc#unchecked-call-return-values)
 
 Note: when done with this chapter, go back through each vuln and read the links to references like blogposts. 
 
