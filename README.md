@@ -127,3 +127,4 @@ Hacking Ethereum Smart Contracts - Damn Vulnerable Defi (Unstoppable) > https://
 Learn about Web3 with web3 accademy (podcast is solid to): https://w3academy.io/thank-you-page/
 
 SEC554: Blockchain And Smart Contract Security - How To Lose $280 Million With A Single Line Of Code 2020 > https://www.youtube.com/watch?v=bTPouSkrhIM
+- Beaus Blockchain Hacking QuickStart Guide > https://start.blockchainhax.com/
