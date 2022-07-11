@@ -128,3 +128,12 @@ Learn about Web3 with web3 accademy (podcast is solid to): https://w3academy.io/
 
 SEC554: Blockchain And Smart Contract Security - How To Lose $280 Million With A Single Line Of Code 2020 > https://www.youtube.com/watch?v=bTPouSkrhIM
 - Beaus Blockchain Hacking QuickStart Guide > https://start.blockchainhax.com/
+- Tools from talk: Solidity Visual Developer, Slither: https://github.com/crytic/slither, mythril: https://github.com/ConsenSys/mythril, mythx (paid tool): https://mythx.io/
+
+Books: 
+- Mastering Ethereum
+- Hands on Smart Contract Development: https://github.com/RedSquirrelTech/hoscdev
+
+Learn Solidity: 
+- https://solidity-by-example.org
+- cryptozombies.io
