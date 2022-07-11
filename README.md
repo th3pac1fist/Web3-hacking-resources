@@ -137,3 +137,11 @@ Books:
 Learn Solidity: 
 - https://solidity-by-example.org
 - cryptozombies.io
+
+Bug Bounties: 
+- Immunefi: https://immunefi.com
+- Consensys Bug Bounty List: https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/
+- Code 423n4: https://code423n4.com/
+- Hacken: https://hackenproof.com/programs
+- Chainlink: https://hackerone.com/chainlink?type=team
+- The Graph: https://thegraph.com/security/
