@@ -138,6 +138,8 @@ Learn Solidity:
 - https://solidity-by-example.org
 - cryptozombies.io
 
+Privacy: https://tornado.cash/
+
 Bug Bounties: 
 - Immunefi: https://immunefi.com
 - Consensys Bug Bounty List: https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/
