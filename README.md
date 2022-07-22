@@ -9,6 +9,7 @@ Video > https://www.youtube.com/watch?v=M576WGiDBdQ&t=387s
 - Learned how to request test funds from the https://faucet.rinkeby.io. 
 - Checked out andersbrownworth.com/blockchain/hash site. This will help with understanding how blockchain truly works. 
  -- Ethereum using keccak256 for its hashing algorithm. 
+ -- Coolest thing learend so far was how mining works. Miners try to solve the nounce that will give them the correct hash via bruteforce. Which is why you need heavy duty computing power to do this. Check out the block section here > https://andersbrownworth.com/blockchain/block
 
 Solidity IDE Remix: 
 
