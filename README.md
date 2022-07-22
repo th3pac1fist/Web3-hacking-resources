@@ -4,6 +4,11 @@ Smart contracts full blockchain solidity course py > https://github.com/smartcon
 
 Video > https://www.youtube.com/watch?v=M576WGiDBdQ&t=387s
 * 03/22/22 left off at 25 min into course
+* Jul/22/22 left off
+- Learned to use https://rinkeby.etherscan.io/address/0x22bf3cd581b4eD305c15625a51C0e866FB4E9174. 
+- Learned how to request test funds from the https://faucet.rinkeby.io. 
+- Checked out andersbrownworth.com/blockchain/hash site. This will help with understanding how blockchain truly works. 
+ -- Ethereum using keccak256 for its hashing algorithm. 
 
 Solidity IDE Remix: 
 
